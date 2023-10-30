@@ -1,0 +1,59 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/background/circle-pause-icon-14-removebg-preview.png</file>
+        <file>assets/background/gameover.png</file>
+        <file>assets/background/only sky.png</file>
+        <file>assets/background/sky cropped mirror.png</file>
+        <file>assets/background/sky cropped.png</file>
+        <file>assets/background/sky double.png</file>
+        <file>assets/background/style-1990s-video-game-2d-pixelated_670382-119571 mirror.png</file>
+        <file>assets/background/style-1990s-video-game-2d-pixelated_670382-119571.avif</file>
+        <file>assets/background/style-1990s-video-game-2d-pixelated_670382-119571.png</file>
+        <file>assets/buildings/px-conversions/building 2.png</file>
+        <file>assets/buildings/px-conversions/building 3 .png</file>
+        <file>assets/buildings/px-conversions/building 4.png</file>
+        <file>assets/buildings/px-conversions/building-removebg-preview mirror.png</file>
+        <file>assets/buildings/px-conversions/building-removebg-preview.png</file>
+        <file>assets/buildings/px-conversions/building.png</file>
+        <file>assets/buildings/px-conversions/building_2-removebg-preview mirror.png</file>
+        <file>assets/buildings/px-conversions/building_2-removebg-preview.png</file>
+        <file>assets/buildings/px-conversions/building_3_-removebg-preview mirror.png</file>
+        <file>assets/buildings/px-conversions/building_3_-removebg-preview.png</file>
+        <file>assets/buildings/px-conversions/building_4-removebg-preview mirror.png</file>
+        <file>assets/buildings/px-conversions/building_4-removebg-preview.png</file>
+        <file>assets/buildings/px-conversions/city-skyline-black_1284-13554.png</file>
+        <file>assets/buildings/px-conversions/city-skyline-design_1128-279.png</file>
+        <file>assets/buildings/px-conversions/cityscape.png</file>
+        <file>assets/buildings/px-conversions/different-buildings-set-white-background_1308-127937.png</file>
+        <file>assets/buildings/px-conversions/different-skyscrapers-illustrations-set_74855-17035.png</file>
+        <file>assets/buildings/px-conversions/set-modern-building_1308-14661.png</file>
+        <file>assets/buildings/px-conversions/small bui.png</file>
+        <file>assets/buildings/px-conversions/small build.png</file>
+        <file>assets/helicopter/broken_parts/cabine.png</file>
+        <file>assets/helicopter/broken_parts/door_16x16.png</file>
+        <file>assets/helicopter/broken_parts/helicopter_back.png</file>
+        <file>assets/helicopter/separated_frames/helicopter_1.png</file>
+        <file>assets/helicopter/separated_frames/helicopter_2.png</file>
+        <file>assets/helicopter/separated_frames/helicopter_3.png</file>
+        <file>assets/helicopter/separated_frames/helicopter_4.png</file>
+        <file>assets/helicopter/separated_frames/helicopter_5.png</file>
+        <file>assets/helicopter/separated_frames/helicopter_6.png</file>
+        <file>assets/helicopter/separated_frames/helicopter_7.png</file>
+        <file>assets/helicopter/separated_frames/helicopter_8.png</file>
+        <file>assets/helicopter/helicopter.png</file>
+        <file>assets/helicopter2/heli1.png</file>
+        <file>assets/helicopter2/heli2.png</file>
+        <file>assets/helicopter2/heli3.png</file>
+        <file>assets/helicopter2/heli4.png</file>
+        <file>assets/helicopter2/pngaaa.com-1952383.png</file>
+        <file>assets/style/stylesheet.css</file>
+        <file>assets/music/gamebg.mp3</file>
+        <file>assets/music/helicrash.m4a</file>
+        <file>assets/music/heliwing.mp3</file>
+        <file>assets/music/pointsound.mp3</file>
+        <file>assets/music/tapsound.mp3</file>
+        <file>assets/records/player_profiles.txt</file>
+        <file>assets/records/systemwidehigh_scores.txt</file>
+        <file>assets/background/pixel-8-bit-uppercase-letter-h-as-font-vector-47463245.jpg</file>
+    </qresource>
+</RCC>

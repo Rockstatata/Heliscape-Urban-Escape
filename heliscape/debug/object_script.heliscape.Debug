@@ -1,0 +1,14 @@
+debug/buildingitem.o
+debug/heliitem.o
+debug/item.o
+debug/main.o
+debug/mainwindow.o
+debug/playerprofile.o
+debug/scene.o
+debug/scores.o
+debug/qrc_resources.o
+debug/moc_buildingitem.o
+debug/moc_heliitem.o
+debug/moc_item.o
+debug/moc_mainwindow.o
+debug/moc_scene.o

@@ -1,0 +1,14 @@
+release/buildingitem.o
+release/heliitem.o
+release/item.o
+release/main.o
+release/mainwindow.o
+release/playerprofile.o
+release/scene.o
+release/scores.o
+release/qrc_resources.o
+release/moc_buildingitem.o
+release/moc_heliitem.o
+release/moc_item.o
+release/moc_mainwindow.o
+release/moc_scene.o
